@@ -1,0 +1,6 @@
+Não tem muito segredo de como usar esse mod, basta você esperar o gradle fazer seu build
+Depois você vai em project structure, e então selecione o termurin 21, assim como você seleciona o level language para 21
+Se você n tiver instalado o termurin 21, você precisa baixar para executar o projeto
+Depois você vai em settings -> Build, execution, deployment -> Build Tools -> Gradlew -> Em gradlew JVM você seleciona o termurin 21
+Depois disso, você executa o run client, se n aparecer você clica no icone elefante a direita, abra tasks -> mod development, e então clique em runClient
+Assim você executa o mod para testar
